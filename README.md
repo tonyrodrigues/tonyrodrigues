@@ -33,13 +33,13 @@ Gosto de transformar desafios operacionais em aplicações úteis: de dashboards
 ## 🌐 Conecte-se comigo
 
 <p align="left">
-  <a href="SEU_LINK_INSTAGRAM" target="_blank">
+  <a href="https://www.instagram.com/tonyrodrigues.br/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="SEU_LINK_LINKEDIN" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="SEU_LINK_YOUTUBE" target="_blank">
+  <a href="https://www.youtube.com/@TonyRodrigues27" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
