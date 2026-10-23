@@ -30,6 +30,20 @@ Gosto de transformar desafios operacionais em aplicações úteis: de dashboards
   <img src="https://skillicons.dev/icons?i=cs,dotnet,python,flutter,git,github,html,css,js,mysql,postgres,linux,vscode" />
 </p>
 
+## 🌐 Conecte-se comigo
+
+<p align="left">
+  <a href="SEU_LINK_INSTAGRAM" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="SEU_LINK_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="SEU_LINK_YOUTUBE" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+</p>
+
 ### 🚀 O que gosto de construir
 
 | Área | Foco |
