@@ -24,22 +24,11 @@ Gosto de transformar desafios operacionais em aplicações úteis: de dashboards
 - ☁️ **Infraestrutura:** administração de ambientes e serviços de TI.
 - 🤖 **Interesses atuais:** IA aplicada ao desenvolvimento e produtos digitais.
 
-### 🛠️ Tecnologias e ferramentas
+## 🚀 Tecnologias e Ferramentas
 
-<div align="center">
-
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,flutter,git,github,html,css,js,mysql,postgres,linux,vscode" />
+</p>
 
 ### 🚀 O que gosto de construir
 
